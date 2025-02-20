@@ -2,12 +2,12 @@ fun main(){
     val mensajeTexto = "¡Hola! 😊 Solo quería saludarte y desearte un excelente día. Espero que todo esté yendo bien. ¡Hablamos pronto!"
     val mensajeCorreo: String = """Estimado Diego,
 
-    Espero que este correo le encuentre bien. Me comunico con usted para nada
+    Espero que este correo le encuentre bien. Me comunico con usted para...
 
-    Quedo atentoa su respuesta y a cualquier información adicional que pueda necesitar. Aprecio su tiempo y colaboración.
+    Quedo atento a su respuesta y a cualquier información adicional que pueda necesitar. Aprecio su tiempo y colaboración.
 
     Saludos cordiales,
-    Random"""
+    ..."""
 
     val noti = "DESPIERTA, tienes que hacer el ejercicio 4."
 
